@@ -25,7 +25,7 @@
     </licenses>
     
     <scm>
-        <url>git@github.com:ghermeto/blitz-bamboo.git</url>
+        <url>scm:git:git@github.com:ghermeto/blitz-bamboo.git</url>
         <connection>scm:git:git@github.com:ghermeto/blitz-bamboo.git</connection>
         <developerConnection>scm:git:git@github.com:ghermeto/blitz-bamboo.git</developerConnection>
     </scm>
